@@ -1,7 +1,7 @@
 # OpenAI PDF Chat
 
 ## Description
-"OpenAI PDF Chat" is a Python-based terminal application designed to facilitate advanced document analysis and querying capabilities. The core functionality of the application revolves around processing PDF documents, extracting text, and leveraging the power of OpenAI's models to generate meaningful embeddings from the extracted text.
+**OpenAI PDF Chat** is a Python-based terminal application designed to facilitate advanced document analysis and querying capabilities. The core functionality of the application revolves around processing PDF documents, extracting text, and leveraging the power of OpenAI's models to generate meaningful embeddings from the extracted text.
 
 ### Key Features and Workflow:
 **1. Document Upload and Text Extraction:**
@@ -36,7 +36,8 @@ Follow these steps to set up the required environment for the project:
 1. **Activate the newly created environment with**:
 Activate the newly created environment with:
     ```bash
-    conda activate [environment-name]```
+    conda activate [environment-name]
+    
 1. **Install Required Packages**
 Install the necessary packages using the commands below:
 ```bash
@@ -55,7 +56,7 @@ conda install -c conda-forge pdfminer.six
 ```
 
 ## Application Use Case:
-"OpenAI PDF Chat" is particularly useful for users who need to process and analyze large volumes of PDF documents. Whether it's extracting insights from academic papers, analyzing reports, or querying large document sets, this application streamlines the process, making it efficient and user-friendly.
+**OpenAI PDF Chat** is particularly useful for users who need to process and analyze large volumes of PDF documents. Whether it's extracting insights from academic papers, analyzing reports, or querying large document sets, this application streamlines the process, making it efficient and user-friendly.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
